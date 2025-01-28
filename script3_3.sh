@@ -1,0 +1,1 @@
+echo \'New Jeans\' is the self-titled debut extended play \(\$EP\) by South Korean girl group $1. It was released on August 1, 2022, by ADOR, a subsidiary of Hybe Corporation. Consisting of \$\(2 + 2\) tracks, the EP draws from synth-pop, hip\\\\hop, and \"R\&B\" and infuses elements of 1990s/2000s musical styles.
