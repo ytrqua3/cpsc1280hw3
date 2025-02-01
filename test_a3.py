@@ -86,6 +86,7 @@ class Test(unittest.TestCase):
             print("Contents of output file:")
             print(text)
             lines  = text.strip().split("\n")
+            print(lines)
             self.assertTrue(len(lines) == len(expectedFiles),"Incorrect number of files found")
         
             line_pattern = "^[0-9]+ [-d][rwx-]{9} .*$"

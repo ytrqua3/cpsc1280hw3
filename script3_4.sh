@@ -1,1 +1,1 @@
-find $1 -name $2 | xargs -n 3 echo
+find $1 -name $2 -print0| xargs -0 -n3 echo
